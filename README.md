@@ -1,2 +1,2 @@
-# djl-examples
-Springboot application with DJL using Torchscript models
+# Java with AI
+Java apps to Demo AI tools
